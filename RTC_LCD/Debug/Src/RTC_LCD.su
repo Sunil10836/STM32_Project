@@ -1,0 +1,12 @@
+RTC_LCD.c:11:5:main	8	static
+RTC_LCD.c:42:6:systick_timer_init	32	static
+RTC_LCD.c:65:6:SysTick_Handler	8	static
+RTC_LCD.c:75:6:RTC_Set_Time	16	static
+RTC_LCD.c:87:6:RTC_Set_Date	16	static
+RTC_LCD.c:99:6:RTC_Print_Date	16	static
+RTC_LCD.c:114:6:RTC_Print_Time	16	static
+RTC_LCD.c:144:7:get_day_of_week	56	static
+RTC_LCD.c:150:6:number_to_string	16	static
+RTC_LCD.c:165:7:time_to_string	16	static
+RTC_LCD.c:181:7:date_to_string	16	static
+RTC_LCD.c:197:13:delay_ms	24	static
